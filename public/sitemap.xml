@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hugo-blog-awesome.netlify.app/about/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-blog-awesome.netlify.app/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-blog-awesome.netlify.app/tags/log/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-blog-awesome.netlify.app/logs/triallog/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-blog-awesome.netlify.app/logs/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-blog-awesome.netlify.app/tags/</loc>
+    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hugo-blog-awesome.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://hugo-blog-awesome.netlify.app/posts/</loc>
+  </url>
+</urlset>
