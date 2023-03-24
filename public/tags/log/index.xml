@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>log on Debanwita Mahato</title>
-    <link>https://hugo-blog-awesome.netlify.app/tags/log/</link>
+    <link>https://debanwita27.github.io/tags/log/</link>
     <description>Recent content in log on Debanwita Mahato</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hugo-blog-awesome.netlify.app/tags/log/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://debanwita27.github.io/tags/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Log 1 - Getting upto speed and plans for the site</title>
-      <link>https://hugo-blog-awesome.netlify.app/logs/triallog/</link>
+      <link>https://debanwita27.github.io/logs/triallog/</link>
       <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://hugo-blog-awesome.netlify.app/logs/triallog/</guid>
+      <guid>https://debanwita27.github.io/logs/triallog/</guid>
       <description>Structuring the siteI was (still am, honestly) debating whether I should make the site data centric or portfolio centric and mulling over its overall structuring. Data centric in the sense I&#39;d put more effort on blogs and less on ornamental css. Portfolio centric would&#39;ve called for more effort into the presentation of the site (putting my sweet p5.js and three.js skills to use) for the sake of creating a frontend portfolio.</description>
     </item>
     
