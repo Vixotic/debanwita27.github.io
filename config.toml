@@ -52,8 +52,7 @@ enableEmoji = true
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Debanwita Mahato"
   name = "Debanwita Mahato"
-  description = "CS undergrad trying to get a foothold in Web Dev and Machine Learning(and Deep Learning). I dabble in generative coding for the kicks. Currently looking for an interesting opportunity for a summer/autumn internship."
-
+  description = "CS undergrad trying to get a foothold in Web Dev and Machine Learning(and Deep Learning). I dabble in generative coding for the kicks."
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/debanwita27"
