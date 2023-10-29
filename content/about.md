@@ -1,7 +1,7 @@
 ---
 title: About
-description: 'Me :D'
-date: '2023-03-24'
+description: "Me :D"
+date: "2023-03-24"
 author: Debanwita Mahato
 ---
 
