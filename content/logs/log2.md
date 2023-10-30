@@ -29,4 +29,4 @@ The silver lining is that I'm not alone here. I have a few friends from college 
 
 I'll be staying in Bangalore for two more months at best. I'm not sure if I'll be able to make the most of it, but I'm trying; I'm trying to improve my coding, my designing, my writing, my drawing, my cooking—essentially, to become a better version of myself. I'm trying to learn how to be an adult before I have to head back to college. The thought of settling back into the routine and restrictions of a student intimidates me. I've grown lax, in hindsight. The uncertainty of coming back once I leave is part of the anxiety, I was only here as an intern, after all. Like I said, I've gotten used to Bangalore. I'm not sure if I have the heart to leave both, the city and the people.
 
-I want to end this log in an optimistic note. If/when I come back, I want to learn Kanada, and driving. I log that as well, whenever I do.
+I want to end this log in an optimistic note. If/when I come back, I want to learn Kanada, and driving. I'll log that as well, whenever I do.
