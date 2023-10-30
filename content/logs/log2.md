@@ -15,7 +15,7 @@ Solid plan, except, it went down the gutter quicker than I could look up goodrea
 
 Summer break was right around the corner. I'd registered for a few courses to keep busy, but I was also looking forward to a break from the monotony of college. I got my break alright, a 6-month+ one at that.
 
-The funny thing about time is its complete lack of apathy for your need to process things. I can't recall hunting for a place to stay, or packing my bags, or even saying goodbye to my friends. Somehow, I was on a flight to Bangalore, and then I was in a cab, and finally in a room, excited but nervous. Excited because I'd finally be able to get some real-world experience, nervous because I'd finally be able to get some real world experience.
+The funny thing about time is its unwavering apathy for your need to process things. I can't recall hunting for a place to stay, or packing my bags, or even saying goodbye to my friends. Somehow, I was on a flight to Bangalore, and then I was in a cab, and finally in a room, excited but nervous. Excited because I'd finally be able to get some real-world experience, nervous becaßuse I'd finally be able to get some real world experience.
 
 I have an unconventional role of a design engineer intern at [Headout](https://headout.com). It's pretty self-explanatory: I'm part designer, part engineer, and very confused. Unconventional roles come with an equally different hiring process. If I ever document my experience, I'll link it here. For now, it looks like I had a good enough interview to get the job. I'm not complaining. Fitting into the role, however, was equal parts natural and perplexing.
 
